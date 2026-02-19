@@ -121,18 +121,16 @@ It helps identify:
 
 ## 📷 Dashboard Preview
 ### Current IT Spend Dashboard
-(Add screenshot here)
-![Dashboard Preview](dashboard_current.png)
+
 
 ### Future Spend Dashboard
-(Add screenshot here)
-![Future Dashboard Preview](dashboard_future.png)
 
 ---
 
 ## 📁 Files Included
 - `IT_Expenditures_Analysis.pbix` → Power BI report file
-- `IT_Expenditures_Dashboard_screenshot` →  dashboard screenshot
+- `dashboard_current.png` → Current dashboard screenshot
+- `dashboard_future.png` → Future dashboard screenshot
 - `IT_Expenditures_Analysis.pdf` → Exported dashboard report
 
 ---
