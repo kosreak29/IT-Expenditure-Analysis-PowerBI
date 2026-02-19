@@ -138,5 +138,5 @@ It helps identify:
 
 ## 📌 Author
 **Aman K**  
-Data Analyst |
+Data Analyst
 
