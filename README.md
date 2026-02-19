@@ -121,6 +121,7 @@ It helps identify:
 
 ## 📁 Files Included
 - `IT_Expenditures_Analysis.pbix` → Power BI report file
+-  `IT_Expenditures_Analysis.1.pbip` → Power BI Project file
 - `dashboard_current.png` → Current dashboard screenshot
 - `dashboard_future.png` → Future dashboard screenshot
 - `IT_Expenditures_Analysis.pdf` → Exported dashboard report
@@ -137,5 +138,5 @@ It helps identify:
 
 ## 📌 Author
 **Aman K**  
-Data Analyst | Power BI Developer  
+Data Analyst |
 
